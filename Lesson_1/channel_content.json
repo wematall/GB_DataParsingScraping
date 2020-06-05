@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "OaRCktvov7rpet9KvFHoFjXkeYM",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "RU",
+  "pageInfo": {
+    "totalResults": 7351,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lpk5A27nhO6YFCFRujoZKl2Ct9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wit17xVPRIY"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-06T18:24:51Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как влияют на человека вещи в его квартире. Торсунов",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Жизнь в звуке. 04.04.2010 Рига. Полная версия лекции:http://www.youtube...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wit17xVPRIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wit17xVPRIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wit17xVPRIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-06T18:24:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RYNjb7tYK9MmKnmJxIThyN836pQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MKhI6EhtJwg"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-20T05:02:21Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "О.Г.Торсунов Как узнать любит ли меня мой мужчина",
+        "description": "Полная версия лекции - https://www.youtube.com/watch?v=2ScroloJ71I Торсунов Олег Геннадьевич © http://www.torsunov.ru Веда-радио - круглос...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MKhI6EhtJwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MKhI6EhtJwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MKhI6EhtJwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-20T05:02:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NysSNIzjyRYegg8aHGBNTKlvzLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Fmit8-8Y-8"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-10T07:47:48Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Этапы к замужеству. Торсунов О. Г. 20 - 21.01.2014",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru http://torsunov.justclick.ru/podpisnaja -- лучшие цитаты Торсунова О. Г. на Вашу почту...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Fmit8-8Y-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Fmit8-8Y-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Fmit8-8Y-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-10T07:47:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hkX6ZoR0bAfMtJvJHoWjpb4zPkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "toaxpkScQ7c"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-09T09:13:13Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как отрабатывать карму отношений с родителями.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Закон Кармы 5. Время. 07.08.2011 Рига. Полная версия лекции:...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/toaxpkScQ7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/toaxpkScQ7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/toaxpkScQ7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-09T09:13:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cW9YpJDtkpuHLzBkP_tL-5k-EBQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2RdrdpBmZKA"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-27T14:17:34Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как девушке не обмануться в парне. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru. Полная версия лекции: Мы в социальных сетях:...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2RdrdpBmZKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2RdrdpBmZKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2RdrdpBmZKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-27T14:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "40SsI_-V2hGOUt22JOoO0U-X3Os",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3HISJzCViTA"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-10T09:04:27Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как общаться с мужчиной. Торсунов О.Г. 20 - 21.01.2014",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru http://torsunov.justclick.ru/podpisnaja -- лучшие цитаты Торсунова О. Г. на Вашу почту...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3HISJzCViTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3HISJzCViTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3HISJzCViTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-10T09:04:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qoV_5jbrU6xZfvV6kjl4cN265TU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZmQLEfJyL1s"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-02T16:56:14Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как искать мужа. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru. Полная версия лекции: Счастливая семейная жизнь 5 - Торс...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmQLEfJyL1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmQLEfJyL1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmQLEfJyL1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-02T16:56:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JpFigJLk2h22RtLNBlLYZKZpEbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9GRDSU3q8kQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-22T15:30:01Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Чего нельзя делать в отношениях Торсунов О.Г.",
+        "description": "В этом видео Торсунов Олег Геннадьевич говорит о том чего нельзя делать в отношениях Полную версию видео,...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9GRDSU3q8kQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9GRDSU3q8kQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9GRDSU3q8kQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-22T15:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fakXNVPW8Hz1J3unRahjPukwLxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wcNKgjpOxeg"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-25T02:33:32Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Что будет с тем, кто бросил близкого человека? Торсунов",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Азбука успеха 3.Успех в семейной жизни. 27.04.2012 Рига Фестиваль «Благо...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wcNKgjpOxeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wcNKgjpOxeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wcNKgjpOxeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-25T02:33:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4EjbkEZzc23HyP4sJFKDx2N015k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eWSCCr9C_s4"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-25T16:21:15Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как выбирать партнера. Торсунов О. Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Счастливая семейная жизнь 3 - Торсунов О.Г. 09.07.2012 Рига ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eWSCCr9C_s4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eWSCCr9C_s4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eWSCCr9C_s4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-25T16:21:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tyadj4wavhG1fUL84NaCG8HvTck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TxEYQiBXFqA"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-11T05:19:10Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как принимать ситуацию. Торсунов О.Г. 04.02.12 Омск",
+        "description": "Торсунов Олег Геннадьевич © www.torsunov.ru Тирукурал - Трудолюбие. 04.02.12 Омск. Полная версия лекции: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TxEYQiBXFqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TxEYQiBXFqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TxEYQiBXFqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-11T05:19:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1kdJlgeTgSBfD3jSdc8tQMaVNJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rczgVliTErg"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-15T18:15:00Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Режим дня женщины",
+        "description": "В этом видео Олег Геннадьевич Торсунов говорит о режиме дня женщины Из лекции «Таинство зачатия и рождения...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rczgVliTErg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rczgVliTErg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rczgVliTErg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-15T18:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jj3zgLuFDgX2qpxaCkBVhwXhI8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dDLV2KiZ7N4"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-28T11:04:11Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как выбрать мужа из нескольких претендентов.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Закон кармы. Ответы на вопросы. 16.01.2012 Казань. Полная верси...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dDLV2KiZ7N4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dDLV2KiZ7N4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dDLV2KiZ7N4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-28T11:04:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EwZpjM-H10evLvwewmoA24dvPlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "izQUqhwnpSg"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-24T21:06:55Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г. Мудрая женщина",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru _ Полная версия лекции: _ Мы в социальных сетях: http://vk.com/og_torsunov...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/izQUqhwnpSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/izQUqhwnpSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/izQUqhwnpSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-24T21:06:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9ko-E4Opymp92K5Akc5QrEd6Hmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5W4AYYAeImo"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-20T05:25:05Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как закончить недозволенные отношения. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru. Полная версия лекции: Счастливая семейная жизнь 4 - Торс...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5W4AYYAeImo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5W4AYYAeImo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5W4AYYAeImo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-20T05:25:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ngvEG9Oc2GPf11TNCNaOFKz-HQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8_co23ttFW8"
+      },
+      "snippet": {
+        "publishedAt": "2014-10-24T13:19:15Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "О.Г. Торсунов   С чего начать позитивные перемены в себе",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru _ Полная версия лекции: _ Мы в социальных сетях: http://vk.com/og_torsunov...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_co23ttFW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_co23ttFW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_co23ttFW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-10-24T13:19:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cJVZuCF1wkgV5LQyXd235bcP-mg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dpNXQ6u2Qhc"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-09T07:45:43Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Если жена бросила мужа. Торсунов О.Г. 09.07.2012 Рига",
+        "description": "Торсунов Олег Геннадьевич © www.torsunov.ru Счастливая семейная жизнь 3 . 09.07.2012 Рига. Полная версия лекци...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dpNXQ6u2Qhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dpNXQ6u2Qhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dpNXQ6u2Qhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-09T07:45:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2nptOCss_Qqgw77RJmbEoznD5ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XRJ686fuqQA"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-10T09:23:13Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как проверить отношения. Торсунов О.Г. 20 - 21.01.2014",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru http://torsunov.justclick.ru/podpisnaja -- лучшие цитаты Торсунова О. Г. на Вашу почту...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XRJ686fuqQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XRJ686fuqQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XRJ686fuqQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-10T09:23:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ATr7QVxNms975TBUX6m84MZ1Ono",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F_ew2hVK2bw"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-19T15:30:00Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Об опасности неопределённых отношений Торсунов О.Г.",
+        "description": "В этом видео Торсунов Олег Геннадьевич говорит об опасности неопределенных отношений Полную версию видео,...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F_ew2hVK2bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F_ew2hVK2bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F_ew2hVK2bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-19T15:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zG4FDfAiiwWDdqKTl8TZC1vE3CA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "61ENdB5Peqk"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-09T23:10:08Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Очень важно! Как правильно Молиться?  28.04.2012 Рига",
+        "description": "Торсунов Олег Геннадьевич © http://torsunov.ru Азбука успеха 4. Ответы на вопросы. Как правильно Молиться? 28.04.2012...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/61ENdB5Peqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/61ENdB5Peqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/61ENdB5Peqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-09T23:10:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_1tEzr34HLscluKS9Tu7ZLN9qio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tSy8uJmSRJo"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-16T19:34:06Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Сколовы Виталий и Наталья песня Земля, я люблю тебя!",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Веда-радио - круглосуточное онлайн радио - http://vedaradio.fm/ Фестиваль...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tSy8uJmSRJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tSy8uJmSRJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tSy8uJmSRJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-16T19:34:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rkXEug_AcyL1cU3KWIjUEQEVDnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sMQszXcjusg"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-13T15:00:05Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г. Где женщине брать силы",
+        "description": "В этом видео Торсунов Олег Геннадьевич говорит о том где женщине брать силы Полную версию видео, можно...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sMQszXcjusg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sMQszXcjusg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sMQszXcjusg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-13T15:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fk5OXyV8ASViywTARyIjr6DsiYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BZJhFciXUoo"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-18T15:26:29Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как определить честность человека. Торсунов. О.Г.01.09.2011",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Тирукурал. Лекция 1 - Нечистивость. 01.09.2011 Омск. Полная...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BZJhFciXUoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BZJhFciXUoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZJhFciXUoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-18T15:26:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gPysEfC9vpmBJyG2IJIhg3qku0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h3wCbQYUFcc"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-26T06:15:00Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "О.Г.  Торсунов  Последствия при жестком расставании с человеком",
+        "description": "В этом видео Олег Геннадьевич Торсунов говорит о последствиях при жестком расставании с человеком Из лекци...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h3wCbQYUFcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h3wCbQYUFcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h3wCbQYUFcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-26T06:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x1YrkRtBfD_V1va106fTfDVrmXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lkj_yBsj5G4"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-19T13:38:08Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как правильно успокаиваться. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru _ Полная версия лекции: https://www.youtube.com/watch?v=LO4nOBweKv4&feature=youtu.be _ Мы в...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lkj_yBsj5G4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lkj_yBsj5G4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lkj_yBsj5G4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-19T13:38:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sSI5kIewo6PakbJs9XarA-wVtjM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7ejCI6gDXko"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-20T08:54:32Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Женская ревность. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru 4. Религиозная семейная жизнь. 06.12.2009 Рига. Полная версия...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7ejCI6gDXko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7ejCI6gDXko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7ejCI6gDXko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-20T08:54:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fm70djdKRtI1010RLFGn22IPB8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c6hnrZGmuXM"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-12T07:27:01Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Что делать если вас бросили. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Развитие разума. Екатеринбург. 02-04.12.2011. Полная версия...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6hnrZGmuXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6hnrZGmuXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6hnrZGmuXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-12T07:27:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u0zc6W6GjAwdxeut9Ec_k4kTGMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qb3pJ_16Dto"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-20T19:19:39Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как правильно расходиться людям. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Закон Kармы 3. - 06.08.2011 Рига. Полная версия лекции: http://www.youtu...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qb3pJ_16Dto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qb3pJ_16Dto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qb3pJ_16Dto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-20T19:19:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dnOaklBhLrvcy9a0pRuYDEL5f10",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ycDdoSulgTA"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-12T17:39:50Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Раскаяние - и замок злой судьбы снимается. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Семинар: Закон Кармы. Лекция 5. Рига, 07.08.2011 г. Полная верси...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ycDdoSulgTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ycDdoSulgTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ycDdoSulgTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-12T17:39:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Rt0dA_kuAwgAvtCRzzkRPHZhiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2kqXoa1tCDU"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-18T19:12:37Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как встретить хорошего мужа. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Счастливая семейная жизнь 4 - 10.07.2012 Рига. Полная версия...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2kqXoa1tCDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2kqXoa1tCDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2kqXoa1tCDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-18T19:12:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IcppKZqHBPJutfRbhsU0qM344oc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JiU58H3LPGU"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-09T17:43:34Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "2 признака высокого интеллекта Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Тренинг для руководителей предприятий. Часть 1. Казань 15.01.2011 ______...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JiU58H3LPGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JiU58H3LPGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JiU58H3LPGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-09T17:43:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W4tFkZFs8apqtS6ukD9H7P-A__g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iDP0g5kDmdU"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-24T02:56:17Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Почему так часто хочется кушать? Торсунов О.Г. 27.04.2012",
+        "description": "Торсунов Олег Геннадьевич © www.torsunov.ru Открытая консультация. 27.04.2012 Рига. Полная версия лекции:...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDP0g5kDmdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDP0g5kDmdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDP0g5kDmdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-24T02:56:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FKAaBuDU2mBYLo2fNEWjYoyjL84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MMur7zOEBi4"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-10T11:05:40Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как общаться с эгоистами. Торсунов О.Г. 20 - 21.01.2014",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru http://torsunov.justclick.ru/podpisnaja -- лучшие цитаты Торсунова О. Г. на Вашу почту...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MMur7zOEBi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MMur7zOEBi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MMur7zOEBi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-10T11:05:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8KL62XuG4urMR3MtHb_ErQEk-Y0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J25FGXBDdt8"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-28T16:51:02Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Множество половых связей и карма.Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Закон Kармы. Ответы на вопросы. 07.08.2011 Рига. Полная версия...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J25FGXBDdt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J25FGXBDdt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J25FGXBDdt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-28T16:51:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mMVjglq2f4dElb9fJRT3HkStl_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b2tgTYr_6jc"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-24T15:30:02Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  О женских стадиях развития",
+        "description": "В этом видео Торсунов Олег Геннадьевич говорит о женских стадиях развития Полную версию видео, можно посмо...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b2tgTYr_6jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b2tgTYr_6jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b2tgTYr_6jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-24T15:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iiIUNi1OngSgpQfk1qQG_iATcI8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q9Tm64MZCaE"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-20T15:00:08Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Два типа силы женщины и секрет замужества",
+        "description": "В этом видео говорится о двух типах силы женщины и о секрете замужества Полная версия лекции: http://family.torsunov-onl...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q9Tm64MZCaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q9Tm64MZCaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q9Tm64MZCaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-20T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HLv1ijv1Yf2v76K5BGl6jd__qUI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2uU0ZbxfbHU"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-25T18:15:01Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Как мамы влияют на судьбу своих детей",
+        "description": "В этом видео Олег Геннадьевич Торсунов говорит о том, как мамы влияют на судьбу своих детей Из лекции \"Вопро...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2uU0ZbxfbHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2uU0ZbxfbHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2uU0ZbxfbHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-25T18:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lNCRn-Ko5meMuV2D30OB9dFtdx8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "clvFh4XVCgA"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-10T07:47:31Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Если женщина сомневается в мужчине. Торсунов О.Г. 20 - 21.01.2014",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru http://torsunov.justclick.ru/podpisnaja -- лучшие цитаты Торсунова О. Г. на Вашу почту...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/clvFh4XVCgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/clvFh4XVCgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/clvFh4XVCgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-10T07:47:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IDCK5CdWZasliZchFv3u7W5juHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XaxJVFHcGKM"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-10T08:16:22Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как люди наказываются за разрушение семьи. Торсунов О.Г. 20 - 21.01.2014",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru http://torsunov.justclick.ru/podpisnaja -- лучшие цитаты Торсунова О. Г. на Вашу почту...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XaxJVFHcGKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XaxJVFHcGKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaxJVFHcGKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-10T08:16:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cdqp6AH8dL3Y1oqWJw0rr7l0i-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OX_Z_ByRIBc"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-12T15:15:02Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Если мне завидуют",
+        "description": "В этом видео Олег Геннадьевич Торсунов говорит о зависти Из лекции «Ответственность. Цель и важность челов...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OX_Z_ByRIBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OX_Z_ByRIBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OX_Z_ByRIBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-12T15:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hQzFWB6Xr3HG63p8y2B_Z-CZYkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xXu5RWFgw88"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-24T23:01:13Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Как определить, чем человеку заниматься в жизни? 27.04.2012",
+        "description": "Торсунов Олег Геннадьевич © www.torsunov.ru Открытая консультация. 27.04.2012 Рига. Полная версия лекции:...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXu5RWFgw88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXu5RWFgw88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXu5RWFgw88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-24T23:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "imf4b5J5TRfOOmJJPVQWBG_Iv_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j4-B1lAWmJs"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-20T19:31:13Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Два пути на высшие планеты. Торсунов О.Г.",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Закон Kармы 3. - 06.08.2011 Рига. Полная версия лекции: http://www.youtu...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j4-B1lAWmJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j4-B1lAWmJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j4-B1lAWmJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-20T19:31:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZLxWO9evdzybmtvBklqbixrKR9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZnmLCrwN-a4"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-22T12:45:13Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Если муж ушел в другую семью. Торсунов О.Г. 09.07.2012 Рига",
+        "description": "Торсунов Олег Геннадьевич © www.torsunov.ru Счастливая семейная жизнь. Лекция 2. 09.07.2012 Рига. Полная версия...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZnmLCrwN-a4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZnmLCrwN-a4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZnmLCrwN-a4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-22T12:45:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXlRb5vjZMuB3aZPoelG7AZ8d3o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ETPo-gjhhtg"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-23T15:00:00Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Как понять, что ты любишь",
+        "description": "В этом видео говорится о том как понять что любишь Из лекции \"Карма и семья\" Москва 07.06.2012 Официальный сайт...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ETPo-gjhhtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ETPo-gjhhtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETPo-gjhhtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-23T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "772z98XquDRWNuOw4BAvMXz8UgU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g46vFKAjARA"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-25T06:15:02Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Кто и что соединяет людей вместе и нужно ли быть в паре",
+        "description": "В этом видео Торсунов Олег Геннадьевич говорит о том кто соединяет людей вместе Полную версию видео можно...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g46vFKAjARA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g46vFKAjARA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g46vFKAjARA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-25T06:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0TaII5h4IDEY6FitEB-ArNkeYeo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fzxg4OZEvvc"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-09T11:39:52Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Женская красота и энергия. Торсунов О.Г. Иркутск 16.04.2013",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru. Полная версия лекции: Наши сайты: http://vedaradio.ru...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fzxg4OZEvvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fzxg4OZEvvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fzxg4OZEvvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-09T11:39:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nq7_z6OUvLaMlKD4Y-PXowhZFlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OuB9oxrJMvM"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-12T20:50:34Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Результат супружеских измен. Торсунов О.Г. 02.02.2011",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Тирукурал. Нечестивость. 02.02.2011 - ОМск. Полная версия...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OuB9oxrJMvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OuB9oxrJMvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OuB9oxrJMvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-12T20:50:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ph7gGgDkL-IvbdZcJcSqW6pEsH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mgZntX_7x-Y"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-17T16:18:47Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Признаки скорого оставления тела. 14.05.2012. Омск",
+        "description": "Торсунов Олег Геннадьевич © http://www.torsunov.ru Ответы на вопросы. 14.05.2012. Омск. Полная версия лекции: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mgZntX_7x-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mgZntX_7x-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mgZntX_7x-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-17T16:18:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LRsPopX2Lvr7AHqoRDu1WTYER0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qNoP0eSed38"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-23T18:15:02Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Секс вне брака для женщины и для мужчины",
+        "description": "В этом видео Торсунов Олег Геннадьевич говорит о сексе вне брака для женщины и для мужчины Полную версию...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qNoP0eSed38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qNoP0eSed38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qNoP0eSed38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-23T18:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iwAQCOEC6eE290RCTe63K7U3odg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vcl_nQ6JIyg"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-22T18:15:00Z",
+        "channelId": "UCBbeDje34deoh6ELVL9seAg",
+        "title": "Торсунов О.Г.  Если вы упустили возможность быть с любимым",
+        "description": "В этом видео Олег Геннадьевич Торсунов говорит о том что если вы упустили возможность быть с любимым Полну...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vcl_nQ6JIyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vcl_nQ6JIyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vcl_nQ6JIyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Торсунов Олег Геннадьевич",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-22T18:15:00Z"
+      }
+    }
+  ]
+}
