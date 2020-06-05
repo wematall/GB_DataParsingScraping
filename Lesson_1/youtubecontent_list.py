@@ -6,7 +6,7 @@ host = 'https://www.googleapis.com'
 # path = '/youtube/v3/channels'
 path = '/youtube/v3/search'
 
-API_KEY_HERE = 'AIzaSyCZUEQVvFYT1OmJDDmJiTyMSEgLz6F-vOE'
+API_KEY_HERE = 'secret_string'
 
 link = host + path
 
